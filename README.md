@@ -18,7 +18,7 @@ Projek ini bertujuan untuk melakukan analisis eksploratif (EDA) terhadap dataset
 | Skewness      | 7.6       | 1.17     | 1.75     | 10.64     |
 | Nilai Nol     | 0         | 0        | 4.769    | 65        |
 
-Notes: karena skewness tinggi dan outlier ekstrim menggunakan IQR sebagai ukuran utama penyebaran.
+Notes: karena skewness tinggi dan outlier ekstrim menggunakan IQR digunakan untuk mengukur sebaran.
 
 ## Insight: 
 - Hampir setengah dari transaksi (47%) dilakukan tanpa pemberian diskon (diskon = 0).
