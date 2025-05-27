@@ -7,7 +7,7 @@ Projek ini bertujuan untuk melakukan analisis eksploratif (EDA) terhadap dataset
 - Jumlah Observasi: 9.801 baris data.
 - Missing Value: 0.
 - Kolom Utama: Sales, Quantity, Discount, Profit.
-- 
+  
 ## Statistik Deskriptif 
 | Statistik     | Sales     | Quantity | Discount | Profit    |
 |---------------|-----------|----------|----------|-----------|
@@ -17,6 +17,7 @@ Projek ini bertujuan untuk melakukan analisis eksploratif (EDA) terhadap dataset
 | Min - Max     | 0.44–11.199| 1–14    | 0–0.8    | -1.67–4.630|
 | Skewness      | 7.6       | 1.17     | 1.75     | 10.64     |
 | Nilai Nol     | 0         | 0        | 4.769    | 65        |
+
 Notes: karena skewness tinggi dan outlier ekstrim menggunakan IQR sebagai ukuran utama penyebaran.
 
 ## Insight: 
