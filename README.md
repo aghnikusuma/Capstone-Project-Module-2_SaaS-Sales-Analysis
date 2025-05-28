@@ -31,5 +31,5 @@ Notes: karena skewness tinggi dan outlier ekstrim menggunakan IQR digunakan untu
 
 ## Alat yang Digunakan: 
 - Python: Pandas, Matplotlib, Seaborn, SciPy Stats
-- Tableau: Untuk dashboard interaktif
+- Tableau: Untuk dashboard interaktif. **Link Tableau Public for this Project: https://public.tableau.com/views/Module2_Aghni/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link**
 - Statistik Non-Parametrik: Median & IQR, Kruskal-Wallis & Mann-Whitney, Deteksi outlier dengan metode IQR.
